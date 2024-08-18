@@ -1,0 +1,29 @@
+header{
+  background-color: lightgreen;
+  text-align: center;
+  padding: 10px 10px 10px;
+
+}
+  
+main{
+  font-family: Times New Roman;
+  text-align: justify;
+  box-shadow: 5px 5px 5px gray;
+  background-color: whitesmoke;
+ 
+  border: 3cm 2cm 2cm 3cm;
+
+}
+
+h2{
+  background-color: orange;
+  border-radius: 5px;
+  box-shadow: 2px 5px 3px gray;
+}
+
+footer{
+  background-image: linear-gradient(to right, green,lightgreen);
+  font-family: Times New Roman;
+  text-align: center;
+  font-family: Times New Roman;
+}
