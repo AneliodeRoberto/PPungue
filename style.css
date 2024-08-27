@@ -2,6 +2,9 @@ header{
   background-color: lightgreen;
   text-align: center;
   padding: 10px 10px 10px;
+  border: 0px;
+  padding: 10px;
+  margin: 0px
 
 }
   
@@ -11,7 +14,10 @@ main{
   box-shadow: 5px 5px 5px gray;
   background-color: whitesmoke;
  
-  border: 3cm 2cm 2cm 3cm;
+ 
+  border: 0px;
+  padding: 10px;
+  margin: 0px
 
 }
 
@@ -26,4 +32,7 @@ footer{
   font-family: Times New Roman;
   text-align: center;
   font-family: Times New Roman;
+  border: 0px;
+  padding: 10px;
+  margin: 0px
 }
