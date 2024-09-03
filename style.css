@@ -1,38 +1,53 @@
 header{
-  background-color: lightgreen;
-  text-align: center;
-  padding: 10px 10px 10px;
+  background-image: linear-gradient(to bottom,#FFD300,#FF5E00);
+  margin: 0px;
   border: 0px;
   padding: 10px;
-  margin: 0px
-
-}
-  
-main{
+  border-radius: 5px 5px 0px 0px;
+  box-shadow: 5px 5px 3px #7D7D7D;
   font-family: Times New Roman;
+  font-size: 23px;
+  text-align: center;
+}
+body{
+  font-family: Times New Roman;
+  background-color: whitesmoke;
   text-align: justify;
-  box-shadow: 5px 5px 5px gray;
-  background-color: #FFD256;
- 
- 
+  margin: 0px;
   border: 0px;
   padding: 10px;
-  margin: 0px
-
+  box-shadow: 5px 5px 3px black;
+}
+aside{
+  background-image: linear-gradient(to bottom,#FF5E00,#FFD300);
+  margin: 0px;
+  border: 0px;
+  padding: 10px;
+  box-shadow: 5px 5px 3px #7D7D7D;
+  border-radius: 0px 0px 5px 5px;
+  font-family: Times New Roman;
 }
 
-h2{
-  background-color: orange;
+a{
+  text-decoration: navajowhite;
+}
+h1{
+  background-image: linear-gradient(to bottom,#FFD300,#FF5E00);
+  box-shadow: 5px 5px 3px #7D7D7D;
   border-radius: 5px;
-  box-shadow: 2px 5px 3px gray;
 }
-
+h2{
+  background-image: linear-gradient(to top,#FFD300,#FF5E00);
+  border-radius: 5px;
+  box-shadow: 2px 2px 7px #000000;
+}
+abbr{
+  text-decoration: underline;
+}
 footer{
-  background-image: linear-gradient(to right, orange,gray);
-  font-family: Times New Roman;
-  text-align: center;
-  font-family: Times New Roman;
+  background-image: linear-gradient(to right,#007BFF,#A8D600);
+  border-radius: 0px 0px 5px 5px;
   border: 0px;
+  margin: 0px;
   padding: 10px;
-  margin: 0px
 }
